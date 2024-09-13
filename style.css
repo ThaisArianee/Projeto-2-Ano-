@@ -1,9 +1,21 @@
-body { 
-    color: rgb(241, 44, 18);
+body {
+    color: rgb(245, 240, 239);
     background: rgb(65, 223, 136);
+    margin: 0px;
 }
 
 
-header{
-    border: solid 2px white; 
+header {
+    border-bottom: solid 2px rgb(114, 155, 243);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(114, 155, 243);
+}
+
+section {
+    background: rgb(72, 167, 34);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
 }
